@@ -2,12 +2,12 @@
   "source": "https://footballanalytics.pro/data/all.csv",
   "license": "CC-BY-4.0",
   "first_kickoff_utc": "2026-06-07T15:00:00.000Z",
-  "last_kickoff_utc": "2026-11-19T00:30:00.000Z",
+  "last_kickoff_utc": "2026-11-20T00:30:00.000Z",
   "all": {
-    "matches": 1553,
-    "picks": 1553,
-    "pick_hit_rate": 0.5261,
-    "home_win_rate": 0.4501,
+    "matches": 1556,
+    "picks": 1556,
+    "pick_hit_rate": 0.5263,
+    "home_win_rate": 0.4505,
     "brier": 0.5893
   },
   "leagues": {
@@ -32,11 +32,11 @@
     "brasileirao": {
       "league": "Brasileirão",
       "country": "Brazil",
-      "matches": 150,
-      "picks": 150,
-      "pick_hit_rate": 0.5267,
-      "home_win_rate": 0.48,
-      "brier": 0.5806
+      "matches": 153,
+      "picks": 153,
+      "pick_hit_rate": 0.5294,
+      "home_win_rate": 0.4837,
+      "brier": 0.5803
     },
     "ekstraklasa": {
       "league": "Ekstraklasa",

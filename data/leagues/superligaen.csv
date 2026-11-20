@@ -83,3 +83,4 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5739546,2026-11-08T13:00:00.000Z,Superligaen,superligaen,Denmark,AGF,AC Horsens,2,0,1,0.4965,0.2424,0.2611,1.912,1.35,1,1,dc-1.0,https://footballanalytics.pro/en/matches/agf-vs-ac-horsens-5739546
 5739544,2026-11-08T15:00:00.000Z,Superligaen,superligaen,Denmark,Randers FC,Nordsjælland,1,6,2,0.2112,0.2848,0.5041,0.894,1.509,2,1,dc-1.0,https://footballanalytics.pro/en/matches/randers-fc-vs-nordsj-lland-5739544
 5739545,2026-11-08T17:00:00.000Z,Superligaen,superligaen,Denmark,FC Midtjylland,Sønderjyske,2,2,X,0.764,0.1474,0.0885,2.894,0.953,1,0,dc-1.0,https://footballanalytics.pro/en/matches/fc-midtjylland-vs-sonderjyske-5739545
+5739551,2026-11-20T18:00:00.000Z,Superligaen,superligaen,Denmark,AGF,Lyngby,2,1,1,0.6814,0.1893,0.1293,2.434,1,1,1,dc-1.0,https://footballanalytics.pro/en/matches/agf-vs-lyngby-5739551

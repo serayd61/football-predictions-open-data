@@ -1555,3 +1555,6 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5103705,2026-11-19T22:30:00.000Z,Brasileirão,brasileirao,Brazil,Vasco da Gama,Internacional,2,1,1,0.4948,0.2682,0.237,1.648,1.078,1,1,dc-1.0,https://footballanalytics.pro/en/matches/vasco-da-gama-vs-internacional-5103705
 5103712,2026-11-19T22:30:00.000Z,Brasileirão,brasileirao,Brazil,Vitória,RB Bragantino,2,1,1,0.3167,0.3092,0.3741,1.094,1.211,2,0,dc-1.0,https://footballanalytics.pro/en/matches/vitoria-vs-rb-bragantino-5103712
 5103706,2026-11-20T00:30:00.000Z,Brasileirão,brasileirao,Brazil,São Paulo,Fluminense,0,1,2,0.3337,0.3052,0.3611,1.154,1.21,2,1,dc-1.0,https://footballanalytics.pro/en/matches/sao-paulo-vs-fluminense-5103706
+5804042,2026-11-20T17:00:00.000Z,Ekstraklasa,ekstraklasa,Poland,Piast Gliwice,Korona Kielce,2,0,1,0.5275,0.2723,0.2002,1.614,0.91,1,1,dc-1.0,https://footballanalytics.pro/en/matches/piast-gliwice-vs-korona-kielce-5804042
+5105051,2026-11-20T18:00:00.000Z,Eliteserien,eliteserien,Norway,Molde,Bodø/Glimt,2,4,2,0.235,0.2069,0.5581,1.547,2.399,2,1,dc-1.0,https://footballanalytics.pro/en/matches/molde-vs-bodo-glimt-5105051
+5739551,2026-11-20T18:00:00.000Z,Superligaen,superligaen,Denmark,AGF,Lyngby,2,1,1,0.6814,0.1893,0.1293,2.434,1,1,1,dc-1.0,https://footballanalytics.pro/en/matches/agf-vs-lyngby-5739551

@@ -2,13 +2,13 @@
   "source": "https://footballanalytics.pro/data/all.csv",
   "license": "CC-BY-4.0",
   "first_kickoff_utc": "2026-06-07T15:00:00.000Z",
-  "last_kickoff_utc": "2026-11-20T00:30:00.000Z",
+  "last_kickoff_utc": "2026-11-20T18:00:00.000Z",
   "all": {
-    "matches": 1556,
-    "picks": 1556,
-    "pick_hit_rate": 0.5263,
-    "home_win_rate": 0.4505,
-    "brier": 0.5893
+    "matches": 1559,
+    "picks": 1559,
+    "pick_hit_rate": 0.5273,
+    "home_win_rate": 0.4509,
+    "brier": 0.5886
   },
   "leagues": {
     "1-divisjon": {
@@ -41,20 +41,20 @@
     "ekstraklasa": {
       "league": "Ekstraklasa",
       "country": "Poland",
-      "matches": 122,
-      "picks": 122,
-      "pick_hit_rate": 0.5328,
-      "home_win_rate": 0.4918,
-      "brier": 0.5899
+      "matches": 123,
+      "picks": 123,
+      "pick_hit_rate": 0.5366,
+      "home_win_rate": 0.4959,
+      "brier": 0.5879
     },
     "eliteserien": {
       "league": "Eliteserien",
       "country": "Norway",
-      "matches": 117,
-      "picks": 117,
-      "pick_hit_rate": 0.547,
-      "home_win_rate": 0.4701,
-      "brier": 0.5582
+      "matches": 118,
+      "picks": 118,
+      "pick_hit_rate": 0.5508,
+      "home_win_rate": 0.4661,
+      "brier": 0.5559
     },
     "la-liga": {
       "league": "LaLiga",
@@ -113,11 +113,11 @@
     "superligaen": {
       "league": "Superligaen",
       "country": "Denmark",
-      "matches": 84,
-      "picks": 84,
-      "pick_hit_rate": 0.5357,
-      "home_win_rate": 0.4643,
-      "brier": 0.6257
+      "matches": 85,
+      "picks": 85,
+      "pick_hit_rate": 0.5412,
+      "home_win_rate": 0.4706,
+      "brier": 0.6201
     },
     "ligue-1": {
       "league": "Ligue 1",

@@ -117,3 +117,6 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5105043,2026-11-08T18:15:00.000Z,Eliteserien,eliteserien,Norway,Fredrikstad,Brann,2,2,X,0.32,0.2734,0.4066,1.319,1.511,2,0,dc-1.0,https://footballanalytics.pro/en/matches/fredrikstad-vs-brann-5105043
 5105046,2026-11-09T18:00:00.000Z,Eliteserien,eliteserien,Norway,Kristiansund,Vålerenga,1,0,1,0.2829,0.2336,0.4834,1.513,2.008,2,0,dc-1.0,https://footballanalytics.pro/en/matches/kristiansund-vs-valerenga-5105046
 5105051,2026-11-20T18:00:00.000Z,Eliteserien,eliteserien,Norway,Molde,Bodø/Glimt,2,4,2,0.235,0.2069,0.5581,1.547,2.399,2,1,dc-1.0,https://footballanalytics.pro/en/matches/molde-vs-bodo-glimt-5105051
+5105052,2026-11-21T13:00:00.000Z,Eliteserien,eliteserien,Norway,Tromsø,Viking,3,2,1,0.2067,0.2283,0.565,1.205,2.077,2,0,dc-1.0,https://footballanalytics.pro/en/matches/tromso-vs-viking-5105052
+5105049,2026-11-21T15:00:00.000Z,Eliteserien,eliteserien,Norway,Hamarkameratene,Fredrikstad,0,0,X,0.4547,0.2676,0.2776,1.625,1.228,1,0,dc-1.0,https://footballanalytics.pro/en/matches/hamarkameratene-vs-fredrikstad-5105049
+5105050,2026-11-21T17:00:00.000Z,Eliteserien,eliteserien,Norway,Vålerenga,Start,1,2,2,0.7019,0.1792,0.1188,2.541,0.99,1,0,dc-1.0,https://footballanalytics.pro/en/matches/valerenga-vs-start-5105050

@@ -97,3 +97,6 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5749745,2026-11-08T14:00:00.000Z,Serie A,serie-a,Italy,Monza,Atalanta,0,1,2,0.2726,0.2003,0.5271,1.826,2.522,2,1,dc-1.0,https://footballanalytics.pro/en/matches/monza-vs-atalanta-5749745
 5749744,2026-11-08T17:00:00.000Z,Serie A,serie-a,Italy,Inter,Como,2,0,1,0.3693,0.274,0.3567,1.437,1.409,1,1,dc-1.0,https://footballanalytics.pro/en/matches/inter-vs-como-5749744
 5749742,2026-11-08T19:45:00.000Z,Serie A,serie-a,Italy,Fiorentina,Juventus,2,2,X,0.2135,0.2715,0.5149,0.968,1.622,2,0,dc-1.0,https://footballanalytics.pro/en/matches/fiorentina-vs-juventus-5749742
+5749753,2026-11-21T14:00:00.000Z,Serie A,serie-a,Italy,Como,Cagliari,2,0,1,0.641,0.2496,0.1094,1.706,0.57,1,1,dc-1.0,https://footballanalytics.pro/en/matches/como-vs-cagliari-5749753
+5749755,2026-11-21T14:00:00.000Z,Serie A,serie-a,Italy,Lazio,Lecce,3,0,1,0.6616,0.2264,0.112,1.922,0.67,1,1,dc-1.0,https://footballanalytics.pro/en/matches/lazio-vs-lecce-5749755
+5749758,2026-11-21T17:00:00.000Z,Serie A,serie-a,Italy,Parma,Roma,1,5,2,0.0879,0.2113,0.7008,0.573,1.987,2,1,dc-1.0,https://footballanalytics.pro/en/matches/parma-vs-roma-5749758

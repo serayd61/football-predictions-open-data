@@ -90,3 +90,6 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5781796,2026-11-08T15:45:00.000Z,Eredivisie,eredivisie,Netherlands,Cambuur,PSV Eindhoven,2,5,2,0.1475,0.1445,0.708,1.659,3.422,2,1,dc-1.0,https://footballanalytics.pro/en/matches/cambuur-vs-psv-eindhoven-5781796
 5781798,2026-11-08T15:45:00.000Z,Eredivisie,eredivisie,Netherlands,AZ Alkmaar,FC Groningen,4,3,1,0.456,0.2511,0.2929,1.784,1.401,1,1,dc-1.0,https://footballanalytics.pro/en/matches/az-alkmaar-vs-fc-groningen-5781798
 5781795,2026-11-08T19:00:00.000Z,Eredivisie,eredivisie,Netherlands,FC Utrecht,NEC Nijmegen,2,3,2,0.325,0.2356,0.4393,1.65,1.932,2,1,dc-1.0,https://footballanalytics.pro/en/matches/fc-utrecht-vs-nec-nijmegen-5781795
+5781805,2026-11-21T15:30:00.000Z,Eredivisie,eredivisie,Netherlands,NEC Nijmegen,PSV Eindhoven,1,4,2,0.182,0.1815,0.6365,1.478,2.748,2,1,dc-1.0,https://footballanalytics.pro/en/matches/nec-nijmegen-vs-psv-eindhoven-5781805
+5781806,2026-11-21T17:45:00.000Z,Eredivisie,eredivisie,Netherlands,Feyenoord,Excelsior,2,3,2,0.7677,0.1436,0.0886,2.972,0.989,1,0,dc-1.0,https://footballanalytics.pro/en/matches/feyenoord-vs-excelsior-5781806
+5781811,2026-11-21T17:45:00.000Z,Eredivisie,eredivisie,Netherlands,FC Utrecht,Cambuur,2,3,2,0.3864,0.205,0.4086,2.226,2.287,2,1,dc-1.0,https://footballanalytics.pro/en/matches/fc-utrecht-vs-cambuur-5781811

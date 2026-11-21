@@ -14,21 +14,21 @@ Nothing is filtered by outcome. The losing picks are in the file next to the win
 ## Current snapshot
 
 <!-- stats:start -->
-**1,559 settled matches · 17 competitions · 2026-06-07 to 2026-11-20**
+**1,561 settled matches · 17 competitions · 2026-06-07 to 2026-11-20**
 
 | | Value | Reference |
 |---|---|---|
-| Pick hit rate (1X2) | 52.7% | always picking the home side: 45.1% |
-| Brier score (sum over 1/X/2, lower is better) | 0.5886 | uniform ⅓ guess: 0.6667 |
+| Pick hit rate (1X2) | 52.7% | always picking the home side: 45.0% |
+| Brier score (sum over 1/X/2, lower is better) | 0.5892 | uniform ⅓ guess: 0.6667 |
 
 | Competition | Matches | Pick hit rate | Brier | File |
 |---|---:|---:|---:|---|
 | 1. Divisjon | 161 | 55.3% | 0.5748 | [`1-divisjon.csv`](data/leagues/1-divisjon.csv) |
 | Championship | 158 | 41.8% | 0.6740 | [`championship.csv`](data/leagues/championship.csv) |
 | Brasileirão | 153 | 52.9% | 0.5803 | [`brasileirao.csv`](data/leagues/brasileirao.csv) |
-| Ekstraklasa | 123 | 53.7% | 0.5879 | [`ekstraklasa.csv`](data/leagues/ekstraklasa.csv) |
+| Ekstraklasa | 124 | 53.2% | 0.5921 | [`ekstraklasa.csv`](data/leagues/ekstraklasa.csv) |
 | Eliteserien | 118 | 55.1% | 0.5559 | [`eliteserien.csv`](data/leagues/eliteserien.csv) |
-| LaLiga | 109 | 53.2% | 0.5650 | [`la-liga.csv`](data/leagues/la-liga.csv) |
+| LaLiga | 110 | 52.7% | 0.5684 | [`la-liga.csv`](data/leagues/la-liga.csv) |
 | Serie A | 98 | 61.2% | 0.5275 | [`serie-a.csv`](data/leagues/serie-a.csv) |
 | Liga Portugal | 93 | 57.0% | 0.5315 | [`liga-portugal.csv`](data/leagues/liga-portugal.csv) |
 | Eredivisie | 91 | 49.5% | 0.6182 | [`eredivisie.csv`](data/leagues/eredivisie.csv) |

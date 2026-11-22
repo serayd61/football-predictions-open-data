@@ -120,3 +120,7 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5105052,2026-11-21T13:00:00.000Z,Eliteserien,eliteserien,Norway,Tromsø,Viking,3,2,1,0.2067,0.2283,0.565,1.205,2.077,2,0,dc-1.0,https://footballanalytics.pro/en/matches/tromso-vs-viking-5105052
 5105049,2026-11-21T15:00:00.000Z,Eliteserien,eliteserien,Norway,Hamarkameratene,Fredrikstad,0,0,X,0.4547,0.2676,0.2776,1.625,1.228,1,0,dc-1.0,https://footballanalytics.pro/en/matches/hamarkameratene-vs-fredrikstad-5105049
 5105050,2026-11-21T17:00:00.000Z,Eliteserien,eliteserien,Norway,Vålerenga,Start,1,2,2,0.7019,0.1792,0.1188,2.541,0.99,1,0,dc-1.0,https://footballanalytics.pro/en/matches/valerenga-vs-start-5105050
+5105053,2026-11-22T16:00:00.000Z,Eliteserien,eliteserien,Norway,KFUM,Brann,3,4,2,0.3395,0.2617,0.3988,1.46,1.597,2,1,dc-1.0,https://footballanalytics.pro/en/matches/kfum-vs-brann-5105053
+5105054,2026-11-22T16:00:00.000Z,Eliteserien,eliteserien,Norway,Kristiansund,Sandefjord,2,2,X,0.2951,0.2811,0.4238,1.197,1.476,2,0,dc-1.0,https://footballanalytics.pro/en/matches/kristiansund-vs-sandefjord-5105054
+5105055,2026-11-22T16:00:00.000Z,Eliteserien,eliteserien,Norway,Aalesund,Rosenborg,2,2,X,0.2155,0.187,0.5975,1.652,2.72,2,0,dc-1.0,https://footballanalytics.pro/en/matches/aalesund-vs-rosenborg-5105055
+5105056,2026-11-22T18:15:00.000Z,Eliteserien,eliteserien,Norway,Sarpsborg 08,Lillestrøm,0,2,2,0.3045,0.2918,0.4037,1.159,1.369,2,1,dc-1.0,https://footballanalytics.pro/en/matches/sarpsborg-08-vs-lillestrom-5105056

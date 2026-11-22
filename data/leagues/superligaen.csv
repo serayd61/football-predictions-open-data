@@ -84,3 +84,7 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5739544,2026-11-08T15:00:00.000Z,Superligaen,superligaen,Denmark,Randers FC,Nordsjælland,1,6,2,0.2112,0.2848,0.5041,0.894,1.509,2,1,dc-1.0,https://footballanalytics.pro/en/matches/randers-fc-vs-nordsj-lland-5739544
 5739545,2026-11-08T17:00:00.000Z,Superligaen,superligaen,Denmark,FC Midtjylland,Sønderjyske,2,2,X,0.764,0.1474,0.0885,2.894,0.953,1,0,dc-1.0,https://footballanalytics.pro/en/matches/fc-midtjylland-vs-sonderjyske-5739545
 5739551,2026-11-20T18:00:00.000Z,Superligaen,superligaen,Denmark,AGF,Lyngby,2,1,1,0.6814,0.1893,0.1293,2.434,1,1,1,dc-1.0,https://footballanalytics.pro/en/matches/agf-vs-lyngby-5739551
+5739550,2026-11-22T13:00:00.000Z,Superligaen,superligaen,Denmark,Viborg,Randers FC,0,0,X,0.6635,0.2195,0.117,2.009,0.733,1,0,dc-1.0,https://footballanalytics.pro/en/matches/viborg-vs-randers-fc-5739550
+5739553,2026-11-22T13:00:00.000Z,Superligaen,superligaen,Denmark,AC Horsens,Silkeborg,3,1,1,0.6093,0.2073,0.1834,2.328,1.237,1,1,dc-1.0,https://footballanalytics.pro/en/matches/ac-horsens-vs-silkeborg-5739553
+5739548,2026-11-22T15:00:00.000Z,Superligaen,superligaen,Denmark,Sønderjyske,OB,1,2,2,0.383,0.2623,0.3548,1.561,1.496,1,0,dc-1.0,https://footballanalytics.pro/en/matches/sonderjyske-vs-ob-5739548
+5739552,2026-11-22T17:00:00.000Z,Superligaen,superligaen,Denmark,Nordsjælland,FC København,5,0,1,0.3365,0.2653,0.3982,1.425,1.565,2,0,dc-1.0,https://footballanalytics.pro/en/matches/nordsj-lland-vs-fc-kobenhavn-5739552

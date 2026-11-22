@@ -101,3 +101,7 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5749755,2026-11-21T14:00:00.000Z,Serie A,serie-a,Italy,Lazio,Lecce,3,0,1,0.6616,0.2264,0.112,1.922,0.67,1,1,dc-1.0,https://footballanalytics.pro/en/matches/lazio-vs-lecce-5749755
 5749758,2026-11-21T17:00:00.000Z,Serie A,serie-a,Italy,Parma,Roma,1,5,2,0.0879,0.2113,0.7008,0.573,1.987,2,1,dc-1.0,https://footballanalytics.pro/en/matches/parma-vs-roma-5749758
 5749757,2026-11-21T19:45:00.000Z,Serie A,serie-a,Italy,Napoli,Torino,1,0,1,0.6012,0.2356,0.1632,1.941,0.925,1,1,dc-1.0,https://footballanalytics.pro/en/matches/napoli-vs-torino-5749757
+5749754,2026-11-22T11:30:00.000Z,Serie A,serie-a,Italy,Juventus,Venezia,4,0,1,0.6763,0.2291,0.0946,1.842,0.553,1,1,dc-1.0,https://footballanalytics.pro/en/matches/juventus-vs-venezia-5749754
+5749752,2026-11-22T14:00:00.000Z,Serie A,serie-a,Italy,Bologna,Udinese,1,1,X,0.5246,0.2602,0.2152,1.728,1.037,1,0,dc-1.0,https://footballanalytics.pro/en/matches/bologna-vs-udinese-5749752
+5749759,2026-11-22T14:00:00.000Z,Serie A,serie-a,Italy,Sassuolo,Genoa,0,2,2,0.3557,0.2791,0.3651,1.369,1.389,2,1,dc-1.0,https://footballanalytics.pro/en/matches/sassuolo-vs-genoa-5749759
+5749750,2026-11-22T17:00:00.000Z,Serie A,serie-a,Italy,Milan,Frosinone,5,1,1,0.4212,0.2348,0.3439,1.911,1.719,1,1,dc-1.0,https://footballanalytics.pro/en/matches/milan-vs-frosinone-5749750

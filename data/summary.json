@@ -2,13 +2,13 @@
   "source": "https://footballanalytics.pro/data/all.csv",
   "license": "CC-BY-4.0",
   "first_kickoff_utc": "2026-06-07T15:00:00.000Z",
-  "last_kickoff_utc": "2026-11-21T17:45:00.000Z",
+  "last_kickoff_utc": "2026-11-22T00:00:00.000Z",
   "all": {
-    "matches": 1593,
-    "picks": 1593,
-    "pick_hit_rate": 0.5254,
-    "home_win_rate": 0.4507,
-    "brier": 0.5902
+    "matches": 1601,
+    "picks": 1601,
+    "pick_hit_rate": 0.5253,
+    "home_win_rate": 0.4497,
+    "brier": 0.5903
   },
   "leagues": {
     "championship": {
@@ -32,20 +32,20 @@
     "brasileirao": {
       "league": "Brasileirão",
       "country": "Brazil",
-      "matches": 153,
-      "picks": 153,
-      "pick_hit_rate": 0.5294,
-      "home_win_rate": 0.4837,
-      "brier": 0.5803
+      "matches": 156,
+      "picks": 156,
+      "pick_hit_rate": 0.5256,
+      "home_win_rate": 0.4744,
+      "brier": 0.5832
     },
     "ekstraklasa": {
       "league": "Ekstraklasa",
       "country": "Poland",
-      "matches": 126,
-      "picks": 126,
-      "pick_hit_rate": 0.5238,
-      "home_win_rate": 0.5,
-      "brier": 0.5946
+      "matches": 127,
+      "picks": 127,
+      "pick_hit_rate": 0.5197,
+      "home_win_rate": 0.4961,
+      "brier": 0.5966
     },
     "eliteserien": {
       "league": "Eliteserien",
@@ -59,29 +59,29 @@
     "la-liga": {
       "league": "LaLiga",
       "country": "Spain",
-      "matches": 113,
-      "picks": 113,
-      "pick_hit_rate": 0.5221,
-      "home_win_rate": 0.4248,
-      "brier": 0.5737
+      "matches": 114,
+      "picks": 114,
+      "pick_hit_rate": 0.5263,
+      "home_win_rate": 0.4298,
+      "brier": 0.5697
     },
     "serie-a": {
       "league": "Serie A",
       "country": "Italy",
-      "matches": 101,
-      "picks": 101,
-      "pick_hit_rate": 0.6238,
-      "home_win_rate": 0.4356,
-      "brier": 0.517
+      "matches": 102,
+      "picks": 102,
+      "pick_hit_rate": 0.6275,
+      "home_win_rate": 0.4412,
+      "brier": 0.5143
     },
     "eredivisie": {
       "league": "Eredivisie",
       "country": "Netherlands",
-      "matches": 94,
-      "picks": 94,
+      "matches": 96,
+      "picks": 96,
       "pick_hit_rate": 0.5,
-      "home_win_rate": 0.3191,
-      "brier": 0.6217
+      "home_win_rate": 0.3125,
+      "brier": 0.6241
     },
     "premier-league": {
       "league": "Premier League",

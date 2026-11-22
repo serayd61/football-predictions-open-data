@@ -93,3 +93,5 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5781805,2026-11-21T15:30:00.000Z,Eredivisie,eredivisie,Netherlands,NEC Nijmegen,PSV Eindhoven,1,4,2,0.182,0.1815,0.6365,1.478,2.748,2,1,dc-1.0,https://footballanalytics.pro/en/matches/nec-nijmegen-vs-psv-eindhoven-5781805
 5781806,2026-11-21T17:45:00.000Z,Eredivisie,eredivisie,Netherlands,Feyenoord,Excelsior,2,3,2,0.7677,0.1436,0.0886,2.972,0.989,1,0,dc-1.0,https://footballanalytics.pro/en/matches/feyenoord-vs-excelsior-5781806
 5781811,2026-11-21T17:45:00.000Z,Eredivisie,eredivisie,Netherlands,FC Utrecht,Cambuur,2,3,2,0.3864,0.205,0.4086,2.226,2.287,2,1,dc-1.0,https://footballanalytics.pro/en/matches/fc-utrecht-vs-cambuur-5781811
+5781807,2026-11-21T20:00:00.000Z,Eredivisie,eredivisie,Netherlands,Telstar,PEC Zwolle,1,3,2,0.5439,0.2411,0.2149,1.93,1.155,1,0,dc-1.0,https://footballanalytics.pro/en/matches/telstar-vs-pec-zwolle-5781807
+5781808,2026-11-21T20:00:00.000Z,Eredivisie,eredivisie,Netherlands,FC Groningen,SC Heerenveen,1,3,2,0.3434,0.2356,0.421,1.71,1.902,2,1,dc-1.0,https://footballanalytics.pro/en/matches/fc-groningen-vs-sc-heerenveen-5781808

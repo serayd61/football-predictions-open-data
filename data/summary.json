@@ -2,13 +2,13 @@
   "source": "https://footballanalytics.pro/data/all.csv",
   "license": "CC-BY-4.0",
   "first_kickoff_utc": "2026-06-07T15:00:00.000Z",
-  "last_kickoff_utc": "2026-11-22T19:00:00.000Z",
+  "last_kickoff_utc": "2026-11-22T22:30:00.000Z",
   "all": {
-    "matches": 1627,
-    "picks": 1627,
-    "pick_hit_rate": 0.5267,
-    "home_win_rate": 0.4505,
-    "brier": 0.5892
+    "matches": 1631,
+    "picks": 1631,
+    "pick_hit_rate": 0.5273,
+    "home_win_rate": 0.4506,
+    "brier": 0.589
   },
   "leagues": {
     "championship": {
@@ -32,11 +32,11 @@
     "brasileirao": {
       "league": "Brasileirão",
       "country": "Brazil",
-      "matches": 157,
-      "picks": 157,
-      "pick_hit_rate": 0.5287,
-      "home_win_rate": 0.4777,
-      "brier": 0.5808
+      "matches": 159,
+      "picks": 159,
+      "pick_hit_rate": 0.5346,
+      "home_win_rate": 0.4843,
+      "brier": 0.5779
     },
     "ekstraklasa": {
       "league": "Ekstraklasa",
@@ -59,20 +59,20 @@
     "la-liga": {
       "league": "LaLiga",
       "country": "Spain",
-      "matches": 117,
-      "picks": 117,
-      "pick_hit_rate": 0.5299,
-      "home_win_rate": 0.4444,
-      "brier": 0.5647
+      "matches": 118,
+      "picks": 118,
+      "pick_hit_rate": 0.5339,
+      "home_win_rate": 0.4407,
+      "brier": 0.5632
     },
     "serie-a": {
       "league": "Serie A",
       "country": "Italy",
-      "matches": 106,
-      "picks": 106,
-      "pick_hit_rate": 0.6321,
-      "home_win_rate": 0.4434,
-      "brier": 0.5152
+      "matches": 107,
+      "picks": 107,
+      "pick_hit_rate": 0.6262,
+      "home_win_rate": 0.4393,
+      "brier": 0.52
     },
     "eredivisie": {
       "league": "Eredivisie",

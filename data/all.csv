@@ -1626,3 +1626,7 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5868136,2026-11-22T17:30:00.000Z,LaLiga,la-liga,Spain,Osasuna,Málaga,1,0,1,0.5936,0.2544,0.152,1.74,0.773,1,1,dc-1.0,https://footballanalytics.pro/en/matches/osasuna-vs-malaga-5868136
 5105056,2026-11-22T18:15:00.000Z,Eliteserien,eliteserien,Norway,Sarpsborg 08,Lillestrøm,0,2,2,0.3045,0.2918,0.4037,1.159,1.369,2,1,dc-1.0,https://footballanalytics.pro/en/matches/sarpsborg-08-vs-lillestrom-5105056
 5103721,2026-11-22T19:00:00.000Z,Brasileirão,brasileirao,Brazil,Athletico Paranaense,Remo,4,2,1,0.6347,0.2157,0.1496,2.144,0.963,1,1,dc-1.0,https://footballanalytics.pro/en/matches/athletico-paranaense-vs-remo-5103721
+5749751,2026-11-22T19:45:00.000Z,Serie A,serie-a,Italy,Atalanta,Inter,4,4,X,0.1739,0.2101,0.6161,1.155,2.271,2,0,dc-1.0,https://footballanalytics.pro/en/matches/atalanta-vs-inter-5749751
+5868134,2026-11-22T20:00:00.000Z,LaLiga,la-liga,Spain,Getafe,Atlético Madrid,0,3,2,0.1806,0.325,0.4944,0.641,1.235,2,1,dc-1.0,https://footballanalytics.pro/en/matches/getafe-vs-atletico-madrid-5868134
+5103714,2026-11-22T21:30:00.000Z,Brasileirão,brasileirao,Brazil,Fluminense,Mirassol,1,0,1,0.563,0.2603,0.1767,1.712,0.865,1,1,dc-1.0,https://footballanalytics.pro/en/matches/fluminense-vs-mirassol-5103714
+5103718,2026-11-22T22:30:00.000Z,Brasileirão,brasileirao,Brazil,RB Bragantino,Vasco da Gama,1,0,1,0.4757,0.2637,0.2606,1.678,1.194,1,1,dc-1.0,https://footballanalytics.pro/en/matches/rb-bragantino-vs-vasco-da-gama-5103718

@@ -14,27 +14,27 @@ Nothing is filtered by outcome. The losing picks are in the file next to the win
 ## Current snapshot
 
 <!-- stats:start -->
-**1,631 settled matches · 17 competitions · 2026-06-07 to 2026-11-22**
+**1,639 settled matches · 17 competitions · 2026-06-07 to 2026-11-24**
 
 | | Value | Reference |
 |---|---|---|
-| Pick hit rate (1X2) | 52.7% | always picking the home side: 45.1% |
-| Brier score (sum over 1/X/2, lower is better) | 0.5890 | uniform ⅓ guess: 0.6667 |
+| Pick hit rate (1X2) | 52.6% | always picking the home side: 45.0% |
+| Brier score (sum over 1/X/2, lower is better) | 0.5896 | uniform ⅓ guess: 0.6667 |
 
 | Competition | Matches | Pick hit rate | Brier | File |
 |---|---:|---:|---:|---|
 | Championship | 170 | 42.4% | 0.6660 | [`championship.csv`](data/leagues/championship.csv) |
+| Brasileirão | 162 | 52.5% | 0.5843 | [`brasileirao.csv`](data/leagues/brasileirao.csv) |
 | 1. Divisjon | 161 | 55.3% | 0.5748 | [`1-divisjon.csv`](data/leagues/1-divisjon.csv) |
-| Brasileirão | 159 | 53.5% | 0.5779 | [`brasileirao.csv`](data/leagues/brasileirao.csv) |
-| Ekstraklasa | 130 | 53.1% | 0.5935 | [`ekstraklasa.csv`](data/leagues/ekstraklasa.csv) |
+| Ekstraklasa | 131 | 53.4% | 0.5933 | [`ekstraklasa.csv`](data/leagues/ekstraklasa.csv) |
 | Eliteserien | 125 | 53.6% | 0.5732 | [`eliteserien.csv`](data/leagues/eliteserien.csv) |
-| LaLiga | 118 | 53.4% | 0.5632 | [`la-liga.csv`](data/leagues/la-liga.csv) |
-| Serie A | 107 | 62.6% | 0.5200 | [`serie-a.csv`](data/leagues/serie-a.csv) |
+| LaLiga | 119 | 52.9% | 0.5655 | [`la-liga.csv`](data/leagues/la-liga.csv) |
+| Serie A | 108 | 62.0% | 0.5215 | [`serie-a.csv`](data/leagues/serie-a.csv) |
 | Eredivisie | 100 | 51.0% | 0.6098 | [`eredivisie.csv`](data/leagues/eredivisie.csv) |
-| Premier League | 96 | 44.8% | 0.6350 | [`premier-league.csv`](data/leagues/premier-league.csv) |
+| Premier League | 97 | 45.4% | 0.6322 | [`premier-league.csv`](data/leagues/premier-league.csv) |
 | Liga Portugal | 93 | 57.0% | 0.5315 | [`liga-portugal.csv`](data/leagues/liga-portugal.csv) |
 | Süper Lig | 90 | 54.4% | 0.5591 | [`super-lig.csv`](data/leagues/super-lig.csv) |
-| Superligaen | 89 | 52.8% | 0.6214 | [`superligaen.csv`](data/leagues/superligaen.csv) |
+| Superligaen | 90 | 53.3% | 0.6198 | [`superligaen.csv`](data/leagues/superligaen.csv) |
 | Ligue 1 | 82 | 54.9% | 0.6077 | [`ligue-1.csv`](data/leagues/ligue-1.csv) |
 | Bundesliga | 67 | 55.2% | 0.5864 | [`bundesliga.csv`](data/leagues/bundesliga.csv) |
 | Europa League | 18 | 44.4% | 0.6680 | [`europa-league.csv`](data/leagues/europa-league.csv) |

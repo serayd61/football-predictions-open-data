@@ -106,3 +106,4 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5749759,2026-11-22T14:00:00.000Z,Serie A,serie-a,Italy,Sassuolo,Genoa,0,2,2,0.3557,0.2791,0.3651,1.369,1.389,2,1,dc-1.0,https://footballanalytics.pro/en/matches/sassuolo-vs-genoa-5749759
 5749750,2026-11-22T17:00:00.000Z,Serie A,serie-a,Italy,Milan,Frosinone,5,1,1,0.4212,0.2348,0.3439,1.911,1.719,1,1,dc-1.0,https://footballanalytics.pro/en/matches/milan-vs-frosinone-5749750
 5749751,2026-11-22T19:45:00.000Z,Serie A,serie-a,Italy,Atalanta,Inter,4,4,X,0.1739,0.2101,0.6161,1.155,2.271,2,0,dc-1.0,https://footballanalytics.pro/en/matches/atalanta-vs-inter-5749751
+5749756,2026-11-23T19:45:00.000Z,Serie A,serie-a,Italy,Monza,Fiorentina,3,0,1,0.337,0.221,0.442,1.849,2.121,2,0,dc-1.0,https://footballanalytics.pro/en/matches/monza-vs-fiorentina-5749756

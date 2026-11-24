@@ -158,3 +158,6 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5103721,2026-11-22T19:00:00.000Z,Brasileirão,brasileirao,Brazil,Athletico Paranaense,Remo,4,2,1,0.6347,0.2157,0.1496,2.144,0.963,1,1,dc-1.0,https://footballanalytics.pro/en/matches/athletico-paranaense-vs-remo-5103721
 5103714,2026-11-22T21:30:00.000Z,Brasileirão,brasileirao,Brazil,Fluminense,Mirassol,1,0,1,0.563,0.2603,0.1767,1.712,0.865,1,1,dc-1.0,https://footballanalytics.pro/en/matches/fluminense-vs-mirassol-5103714
 5103718,2026-11-22T22:30:00.000Z,Brasileirão,brasileirao,Brazil,RB Bragantino,Vasco da Gama,1,0,1,0.4757,0.2637,0.2606,1.678,1.194,1,1,dc-1.0,https://footballanalytics.pro/en/matches/rb-bragantino-vs-vasco-da-gama-5103718
+5103720,2026-11-23T22:30:00.000Z,Brasileirão,brasileirao,Brazil,Internacional,Vitória,2,5,2,0.5171,0.2839,0.199,1.516,0.851,1,0,dc-1.0,https://footballanalytics.pro/en/matches/internacional-vs-vitoria-5103720
+5103715,2026-11-23T23:00:00.000Z,Brasileirão,brasileirao,Brazil,Botafogo,São Paulo,1,1,X,0.4224,0.2991,0.2786,1.345,1.048,1,0,dc-1.0,https://footballanalytics.pro/en/matches/botafogo-vs-sao-paulo-5103715
+5103716,2026-11-24T00:00:00.000Z,Brasileirão,brasileirao,Brazil,Santos,Grêmio,0,2,2,0.5489,0.263,0.188,1.694,0.903,1,0,dc-1.0,https://footballanalytics.pro/en/matches/santos-vs-gremio-5103716

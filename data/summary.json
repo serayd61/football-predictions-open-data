@@ -2,13 +2,13 @@
   "source": "https://footballanalytics.pro/data/all.csv",
   "license": "CC-BY-4.0",
   "first_kickoff_utc": "2026-06-07T15:00:00.000Z",
-  "last_kickoff_utc": "2026-11-22T22:30:00.000Z",
+  "last_kickoff_utc": "2026-11-24T00:00:00.000Z",
   "all": {
-    "matches": 1631,
-    "picks": 1631,
-    "pick_hit_rate": 0.5273,
-    "home_win_rate": 0.4506,
-    "brier": 0.589
+    "matches": 1639,
+    "picks": 1639,
+    "pick_hit_rate": 0.5265,
+    "home_win_rate": 0.4503,
+    "brier": 0.5896
   },
   "leagues": {
     "championship": {
@@ -20,6 +20,15 @@
       "home_win_rate": 0.4412,
       "brier": 0.666
     },
+    "brasileirao": {
+      "league": "Brasileirão",
+      "country": "Brazil",
+      "matches": 162,
+      "picks": 162,
+      "pick_hit_rate": 0.5247,
+      "home_win_rate": 0.4753,
+      "brier": 0.5843
+    },
     "1-divisjon": {
       "league": "1. Divisjon",
       "country": "Norway",
@@ -29,23 +38,14 @@
       "home_win_rate": 0.4969,
       "brier": 0.5748
     },
-    "brasileirao": {
-      "league": "Brasileirão",
-      "country": "Brazil",
-      "matches": 159,
-      "picks": 159,
-      "pick_hit_rate": 0.5346,
-      "home_win_rate": 0.4843,
-      "brier": 0.5779
-    },
     "ekstraklasa": {
       "league": "Ekstraklasa",
       "country": "Poland",
-      "matches": 130,
-      "picks": 130,
-      "pick_hit_rate": 0.5308,
-      "home_win_rate": 0.4923,
-      "brier": 0.5935
+      "matches": 131,
+      "picks": 131,
+      "pick_hit_rate": 0.5344,
+      "home_win_rate": 0.4962,
+      "brier": 0.5933
     },
     "eliteserien": {
       "league": "Eliteserien",
@@ -59,20 +59,20 @@
     "la-liga": {
       "league": "LaLiga",
       "country": "Spain",
-      "matches": 118,
-      "picks": 118,
-      "pick_hit_rate": 0.5339,
-      "home_win_rate": 0.4407,
-      "brier": 0.5632
+      "matches": 119,
+      "picks": 119,
+      "pick_hit_rate": 0.5294,
+      "home_win_rate": 0.437,
+      "brier": 0.5655
     },
     "serie-a": {
       "league": "Serie A",
       "country": "Italy",
-      "matches": 107,
-      "picks": 107,
-      "pick_hit_rate": 0.6262,
-      "home_win_rate": 0.4393,
-      "brier": 0.52
+      "matches": 108,
+      "picks": 108,
+      "pick_hit_rate": 0.6204,
+      "home_win_rate": 0.4444,
+      "brier": 0.5215
     },
     "eredivisie": {
       "league": "Eredivisie",
@@ -86,11 +86,11 @@
     "premier-league": {
       "league": "Premier League",
       "country": "England",
-      "matches": 96,
-      "picks": 96,
-      "pick_hit_rate": 0.4479,
-      "home_win_rate": 0.4167,
-      "brier": 0.635
+      "matches": 97,
+      "picks": 97,
+      "pick_hit_rate": 0.4536,
+      "home_win_rate": 0.4227,
+      "brier": 0.6322
     },
     "liga-portugal": {
       "league": "Liga Portugal",
@@ -113,11 +113,11 @@
     "superligaen": {
       "league": "Superligaen",
       "country": "Denmark",
-      "matches": 89,
-      "picks": 89,
-      "pick_hit_rate": 0.5281,
-      "home_win_rate": 0.4719,
-      "brier": 0.6214
+      "matches": 90,
+      "picks": 90,
+      "pick_hit_rate": 0.5333,
+      "home_win_rate": 0.4667,
+      "brier": 0.6198
     },
     "ligue-1": {
       "league": "Ligue 1",

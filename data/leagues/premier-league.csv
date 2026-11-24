@@ -95,3 +95,4 @@ fixture_id,kickoff_utc,league,league_slug,country,home_team,away_team,home_score
 5795523,2026-11-21T17:30:00.000Z,Premier League,premier-league,England,Newcastle United,Arsenal,2,2,X,0.1373,0.2538,0.6088,0.701,1.724,2,0,dc-1.0,https://footballanalytics.pro/en/matches/newcastle-united-vs-arsenal-5795523
 5795520,2026-11-22T14:00:00.000Z,Premier League,premier-league,England,Hull City,Brighton & Hove Albion,2,0,1,0.2221,0.3152,0.4627,0.806,1.278,2,0,dc-1.0,https://footballanalytics.pro/en/matches/hull-city-vs-brighton-hove-albion-5795520
 5795521,2026-11-22T16:30:00.000Z,Premier League,premier-league,England,Liverpool,Manchester United,4,0,1,0.5272,0.2344,0.2384,2.014,1.314,1,1,dc-1.0,https://footballanalytics.pro/en/matches/liverpool-vs-manchester-united-5795521
+5795517,2026-11-23T20:00:00.000Z,Premier League,premier-league,England,Brentford,Everton,4,0,1,0.5074,0.2776,0.215,1.568,0.943,1,1,dc-1.0,https://footballanalytics.pro/en/matches/brentford-vs-everton-5795517

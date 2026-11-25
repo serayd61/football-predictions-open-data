@@ -2,32 +2,32 @@
   "source": "https://footballanalytics.pro/data/all.csv",
   "license": "CC-BY-4.0",
   "first_kickoff_utc": "2026-06-07T15:00:00.000Z",
-  "last_kickoff_utc": "2026-11-24T00:00:00.000Z",
+  "last_kickoff_utc": "2026-11-24T21:00:00.000Z",
   "all": {
-    "matches": 1639,
-    "picks": 1639,
-    "pick_hit_rate": 0.5265,
-    "home_win_rate": 0.4503,
-    "brier": 0.5896
+    "matches": 1657,
+    "picks": 1657,
+    "pick_hit_rate": 0.5263,
+    "home_win_rate": 0.4514,
+    "brier": 0.5901
   },
   "leagues": {
     "championship": {
       "league": "Championship",
       "country": "England",
-      "matches": 170,
-      "picks": 170,
-      "pick_hit_rate": 0.4235,
-      "home_win_rate": 0.4412,
-      "brier": 0.666
+      "matches": 178,
+      "picks": 178,
+      "pick_hit_rate": 0.4213,
+      "home_win_rate": 0.4438,
+      "brier": 0.6658
     },
     "brasileirao": {
       "league": "Brasileirão",
       "country": "Brazil",
-      "matches": 162,
-      "picks": 162,
-      "pick_hit_rate": 0.5247,
-      "home_win_rate": 0.4753,
-      "brier": 0.5843
+      "matches": 163,
+      "picks": 163,
+      "pick_hit_rate": 0.5215,
+      "home_win_rate": 0.4785,
+      "brier": 0.5899
     },
     "1-divisjon": {
       "league": "1. Divisjon",
@@ -137,6 +137,15 @@
       "home_win_rate": 0.5075,
       "brier": 0.5864
     },
+    "champions-league": {
+      "league": "Champions League",
+      "country": "Europe",
+      "matches": 18,
+      "picks": 18,
+      "pick_hit_rate": 0.7222,
+      "home_win_rate": 0.5,
+      "brier": 0.4704
+    },
     "europa-league": {
       "league": "Europa League",
       "country": "Europe",
@@ -154,15 +163,6 @@
       "pick_hit_rate": 0.4706,
       "home_win_rate": 0.5294,
       "brier": 0.6004
-    },
-    "champions-league": {
-      "league": "Champions League",
-      "country": "Europe",
-      "matches": 9,
-      "picks": 9,
-      "pick_hit_rate": 0.7778,
-      "home_win_rate": 0.4444,
-      "brier": 0.4258
     }
   }
 }

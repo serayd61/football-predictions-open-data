@@ -14,17 +14,17 @@ Nothing is filtered by outcome. The losing picks are in the file next to the win
 ## Current snapshot
 
 <!-- stats:start -->
-**1,639 settled matches · 17 competitions · 2026-06-07 to 2026-11-24**
+**1,657 settled matches · 17 competitions · 2026-06-07 to 2026-11-24**
 
 | | Value | Reference |
 |---|---|---|
-| Pick hit rate (1X2) | 52.6% | always picking the home side: 45.0% |
-| Brier score (sum over 1/X/2, lower is better) | 0.5896 | uniform ⅓ guess: 0.6667 |
+| Pick hit rate (1X2) | 52.6% | always picking the home side: 45.1% |
+| Brier score (sum over 1/X/2, lower is better) | 0.5901 | uniform ⅓ guess: 0.6667 |
 
 | Competition | Matches | Pick hit rate | Brier | File |
 |---|---:|---:|---:|---|
-| Championship | 170 | 42.4% | 0.6660 | [`championship.csv`](data/leagues/championship.csv) |
-| Brasileirão | 162 | 52.5% | 0.5843 | [`brasileirao.csv`](data/leagues/brasileirao.csv) |
+| Championship | 178 | 42.1% | 0.6658 | [`championship.csv`](data/leagues/championship.csv) |
+| Brasileirão | 163 | 52.1% | 0.5899 | [`brasileirao.csv`](data/leagues/brasileirao.csv) |
 | 1. Divisjon | 161 | 55.3% | 0.5748 | [`1-divisjon.csv`](data/leagues/1-divisjon.csv) |
 | Ekstraklasa | 131 | 53.4% | 0.5933 | [`ekstraklasa.csv`](data/leagues/ekstraklasa.csv) |
 | Eliteserien | 125 | 53.6% | 0.5732 | [`eliteserien.csv`](data/leagues/eliteserien.csv) |
@@ -37,9 +37,9 @@ Nothing is filtered by outcome. The losing picks are in the file next to the win
 | Superligaen | 90 | 53.3% | 0.6198 | [`superligaen.csv`](data/leagues/superligaen.csv) |
 | Ligue 1 | 82 | 54.9% | 0.6077 | [`ligue-1.csv`](data/leagues/ligue-1.csv) |
 | Bundesliga | 67 | 55.2% | 0.5864 | [`bundesliga.csv`](data/leagues/bundesliga.csv) |
+| Champions League | 18 | 72.2% | 0.4704 | [`champions-league.csv`](data/leagues/champions-league.csv) |
 | Europa League | 18 | 44.4% | 0.6680 | [`europa-league.csv`](data/leagues/europa-league.csv) |
 | Conference League | 17 | 47.1% | 0.6004 | [`conference-league.csv`](data/leagues/conference-league.csv) |
-| Champions League | 9 | 77.8% | 0.4258 | [`champions-league.csv`](data/leagues/champions-league.csv) |
 <!-- stats:end -->
 
 The files in this repository are refreshed once a day from the canonical source, which itself updates hourly as matches are settled. The commit history goes back to 17 October 2026 and shows each day's additions, so the record can be audited against any earlier date.

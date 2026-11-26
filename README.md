@@ -14,12 +14,12 @@ Nothing is filtered by outcome. The losing picks are in the file next to the win
 ## Current snapshot
 
 <!-- stats:start -->
-**1,657 settled matches · 17 competitions · 2026-06-07 to 2026-11-24**
+**1,666 settled matches · 17 competitions · 2026-06-07 to 2026-11-25**
 
 | | Value | Reference |
 |---|---|---|
 | Pick hit rate (1X2) | 52.6% | always picking the home side: 45.1% |
-| Brier score (sum over 1/X/2, lower is better) | 0.5901 | uniform ⅓ guess: 0.6667 |
+| Brier score (sum over 1/X/2, lower is better) | 0.5907 | uniform ⅓ guess: 0.6667 |
 
 | Competition | Matches | Pick hit rate | Brier | File |
 |---|---:|---:|---:|---|
@@ -37,7 +37,7 @@ Nothing is filtered by outcome. The losing picks are in the file next to the win
 | Superligaen | 90 | 53.3% | 0.6198 | [`superligaen.csv`](data/leagues/superligaen.csv) |
 | Ligue 1 | 82 | 54.9% | 0.6077 | [`ligue-1.csv`](data/leagues/ligue-1.csv) |
 | Bundesliga | 67 | 55.2% | 0.5864 | [`bundesliga.csv`](data/leagues/bundesliga.csv) |
-| Champions League | 18 | 72.2% | 0.4704 | [`champions-league.csv`](data/leagues/champions-league.csv) |
+| Champions League | 27 | 63.0% | 0.5463 | [`champions-league.csv`](data/leagues/champions-league.csv) |
 | Europa League | 18 | 44.4% | 0.6680 | [`europa-league.csv`](data/leagues/europa-league.csv) |
 | Conference League | 17 | 47.1% | 0.6004 | [`conference-league.csv`](data/leagues/conference-league.csv) |
 <!-- stats:end -->

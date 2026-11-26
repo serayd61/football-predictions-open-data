@@ -2,13 +2,13 @@
   "source": "https://footballanalytics.pro/data/all.csv",
   "license": "CC-BY-4.0",
   "first_kickoff_utc": "2026-06-07T15:00:00.000Z",
-  "last_kickoff_utc": "2026-11-24T21:00:00.000Z",
+  "last_kickoff_utc": "2026-11-25T20:00:00.000Z",
   "all": {
-    "matches": 1657,
-    "picks": 1657,
-    "pick_hit_rate": 0.5263,
-    "home_win_rate": 0.4514,
-    "brier": 0.5901
+    "matches": 1666,
+    "picks": 1666,
+    "pick_hit_rate": 0.5258,
+    "home_win_rate": 0.4508,
+    "brier": 0.5907
   },
   "leagues": {
     "championship": {
@@ -140,11 +140,11 @@
     "champions-league": {
       "league": "Champions League",
       "country": "Europe",
-      "matches": 18,
-      "picks": 18,
-      "pick_hit_rate": 0.7222,
-      "home_win_rate": 0.5,
-      "brier": 0.4704
+      "matches": 27,
+      "picks": 27,
+      "pick_hit_rate": 0.6296,
+      "home_win_rate": 0.4444,
+      "brier": 0.5463
     },
     "europa-league": {
       "league": "Europa League",
